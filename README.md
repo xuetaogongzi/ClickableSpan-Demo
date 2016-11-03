@@ -1,0 +1,2 @@
+# ClickableSpan-Demo
+基于ClickableSpan的TextView分段点击
